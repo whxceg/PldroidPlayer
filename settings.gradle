@@ -1,0 +1,3 @@
+include ':Llibrary'
+include ':Sample'
+rootProject.name = "PldroidPlayer"
